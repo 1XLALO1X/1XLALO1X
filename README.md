@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @1XLALO1X
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:  ... NOTHING 
+DUMP ID WELCOME TO MY NEW SCRIPT
 
-<!---
-1XLALO1X/1XLALO1X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+rm -rf DUMP
+
+git clone https://github.com/1XLALO1X/DUMP
+cd DUMP
+
+python DUMP.py 
+ENJOY!🔥
+
+GOODBYE>-<
